@@ -18,7 +18,7 @@ A Basic Backend implementation of a Pallindrome game.
 Starting the application should be just as simple as `npm start`
 If you would like to enable basic data persistance please use the envrionment variable `PERSIST_DATA` and set it to `true`
 
-There is also a few tests setup to ensure the application works as to be desired. `npm test` should verify this
+There is also a few tests setup to ensure the application works as to be desired `npm test` should verify this
 
 
 ## Usage
