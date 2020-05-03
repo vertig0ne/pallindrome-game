@@ -4,9 +4,9 @@ A Basic Backend implementation of a Pallindrome game.
 
 ## Requirements / Dependancies
 
-Node.js (Minimum v12, developed using v13)
-Express.js - Web server portion
-Jest.js - Testing
+ - Node.js (Minimum v12, developed using v13)
+ - Express.js - Web server portion
+ - Jest.js - Testing
 
 ## Installation
 
