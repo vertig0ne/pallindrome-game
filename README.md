@@ -8,7 +8,8 @@ A Basic Backend implementation of a Pallindrome game.
  - Express.js - Web server portion
  - Jest.js - Testing
 
-## Installation
+
+## Installation
 
 `npm install` should install everything you would need to make this work
 
